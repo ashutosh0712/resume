@@ -1,14 +1,14 @@
-Ashutosh							
+Ashutosh							                                      
 Senior QA/ Test Analyst							
 Previously worked with Fidelity National Information Services (FIS), Mohali, INDIA		
 
-Present Address Brampton, ON, L6S4L7, +1 613 604 7403 | ashutosh712@protonmail.com 
+Present Address Brampton, ON, L6S4L7, +1 613 604 7403 | ashutosh712@protonmail.com      
 
 Senior Software Test Lead with full system development life cycle experience including designing, developing, and implementing Test Plan, Test Cases and Test Processes fuelling swift corrective actions, significant cost savings and fault-free audits. 
 
 Dedicated technology professional accustomed to working in complex project environments. Multifaceted experience in QA software testing and software development. 
 
-Backed by strong credentials including a Computer Applications Master’s degree and Bachelor’s in Mathematics, Java certification, command on creating testing suites, agile methodologies, monitoring tools and cross-platform skills 
+Backed by strong credentials including a Computer Applications Master’s degree and Bachelor’s in Mathematics, Java certification, command on creating testing suites, agile methodologies, monitoring tools and cross-platform skills.        
 
 TECHNICAL SKILLS 							
 Software Development Lifecycle,
@@ -38,15 +38,15 @@ Basic knowledge of Java, javascript, C, C++, SQL, HTML, CSS, Bootstrap
 Visual Studio, Eclipse, IntelliJIdea, Bugzilla, Dev Track, JIRA, Git, Azure DevOps Server,
 Microsoft Office												         
 
-SOFT SKILLS 
+SOFT SKILLS                                        
 Excellent Communication skills, Self-Driven, Detail Oriented, Organized Leadership skills, Proficient in being a mediator for discussions between teams, Positive Attitude, great enthusiasm and dedication, highly motivated committed individual, Ability to prioritize tasks, Analytical Thinker.
 
-EXPERIENCE 
+EXPERIENCE                                               
 
 Senior Software Test Analyst  	Apr 2019 - Jan 2021
 Fidelity National Information Services (FIS), Mohali, IN
 
-As QA 
+As QA                                          
 • Increased understanding of FIS’s complex Projects in Financial Sector and Project Management tools like TFS, Dev Track by engaging in all available training and discussion with teammates.
 
 • Assessed software bugs and compiled findings along with resolution techniques in documentation to disseminate to Project Owner.
@@ -59,7 +59,7 @@ As QA
 
 • Involved in staff training of new members on the products I was working on.
 
-• Created workflows within a module for integration with another product’s core.
+• Created workflows within a module for integration with another product’s core.     
 
  
 As Scrum Master (Part time)                                                                  Aug 2019-Mar 2020 
@@ -80,7 +80,7 @@ Fidelity National Information Services (FIS), Mohali, IN
 • Collaborator in Requirements Management discussions with the team for PI planning and Iteration Planning.
 
 Software Test Engineer 	Mar 2018 - Apr 2020
-Fidelity National Information Services (FIS), Mohali
+Fidelity National Information Services (FIS), Mohali               
 
 • Worked on maintenance and client-requested enhancements for the highly complex banking products.
 
@@ -97,7 +97,7 @@ Fidelity National Information Services (FIS), Mohali
 • Involved in recruiting new talent in the team.
 
 Test Lead - Software Testing and Quality Assurance	Jul 2014 - Oct 2015
-MS Technology Pvt Ltd, New Delhi
+MS Technology Pvt Ltd, New Delhi                            
 
 • Worked with Imaging domain customers to understand needs and provide API service.
 
@@ -118,7 +118,7 @@ MS Technology Pvt Ltd, New Delhi
 • Define QA deliverables.
 
 Senior Software Tester	Jun 2011 - May 2014
-MS Technology Pvt Ltd, New Delhi
+MS Technology Pvt Ltd, New Delhi                                
 
 • Worked with ‘Deloitte Consulting' to create a solution for ‘US Senate' - Deloitte MS Client-Server Web Application in Java for US Senate using HTML5.
 
@@ -131,7 +131,7 @@ MS Technology Pvt Ltd, New Delhi
 • Created Data Sets for Test Automation repository.
 
 Software Tester	Apr 2007 - May 2011
-MS Technology Pvt Ltd, New Delhi
+MS Technology Pvt Ltd, New Delhi                            
 
 • Developed team communications skills and information gathering from offshore and onsite meetings.
 
@@ -143,7 +143,7 @@ MS Technology Pvt Ltd, New Delhi
 
 • Reporting the defects found with teams and having them fixed.
 
-ACCOMPLISHMENTS
+ACCOMPLISHMENTS                                                 
 
 • Programming experience of creating a Web Application with the front-end in HTML5, JavaScript, AJAX and JSP on NetBeans, hosted on Glass Fish, used MySQL for Database and Bootstrap for Designing.
 
@@ -161,7 +161,7 @@ ACCOMPLISHMENTS
 
 • Worked with Human Resource for new recruitment.
 
-EDUCATION
+EDUCATION                                                       
 
 • Master of Computer Applications (M.C.A.) (Computer Applications)-Jul 2001 - Jun 2004
 Dr. APJ Abdul Kalam Technical University, Lucknow.
@@ -171,7 +171,7 @@ All Computer Application Subjects covered in the Syllabus for MCA which include 
 Panjab University, Chandigarh
 Majored in Mathematics with Physics, English, Probability & Statistics as additional subjects.
  
-Languages:
+LANGUAGES
 English, Hindi, Punjabi: YES
 French: No
 ![image](https://user-images.githubusercontent.com/18361889/114227919-a7ae2b00-9943-11eb-9b0b-e92bfef30ffc.png)
