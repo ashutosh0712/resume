@@ -1,8 +1,8 @@
 Ashutosh
 Senior Quality Assurance Test Analyst
 
-Previously worked with Fidelity National Information Services (FIS), Mohali, INDIA
-Present Location: Toronto, Canada, ashutosh712@protonmail.com
+Previously worked with Fidelity National Information Services (FIS), Mohali, INDIA.
+Present Location: Toronto, CANADA, ashutosh712@protonmail.com
  
 About
 As a child, I was curious to get into the internal working of my toys than the toys themselves. I clearly remember how many of them got sacrificed in my attempt to 'experiment' with them. At that point, I wanted to be a pilot so that I could fly high. That ambition didn’t get fulfilled but the desire to excel in everything I did became my second nature.
