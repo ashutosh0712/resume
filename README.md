@@ -4,7 +4,7 @@ Senior Quality Assurance Test Analyst
 Previously worked with Fidelity National Information Services (FIS), Mohali, INDIA.                                                     
 Present Location: Toronto, CANADA, ashutosh712@protonmail.com
  
-About
+About Me: 
 As a child, I was curious to get into the internal working of my toys than the toys themselves. I clearly remember how many of them got sacrificed in my attempt to 'experiment' with them. At that point, I wanted to be a pilot so that I could fly high. That ambition didn’t get fulfilled but the desire to excel in everything I did became my second nature.
 
 As I grew up I found my passion in music. I could listen to music for hours and hours. For me, the lines of Shakespeare’s comedy, Twelfth Night can be used lit·er·al·ly. " If music be the food of love, play on".
@@ -28,24 +28,30 @@ Backed by strong credentials including a Computer Applications Master’s degree
 TECHNICAL SKILLS
 Software Development Lifecycle                                                     	            
 Software Testing Lifecycle
-Test Automation using IBM’s RFT, RPT                            	       	         
-UI and Compatibility Testing 
-Basic knowledge of Selenium WebDriver                                      
-Manual Testing, Regression Testing
 Software Quality Assurance                                                     
-Functional Testing, Integration Testing
 Test Strategy and Methodologies                          	     	     
-Integration Testing, Black Box Testing
 Design Test Plans and Test Cases            	                           
-Automation Testing, API Testing, UAT
-Business Requirements and use cases          	                 
+Business Requirements and use cases          	 
+
+Manual Testing, Regression Testing
+Functional Testing, Integration Testing                
 Performance, Load and Stress Testing
+Integration Testing, Black Box Testing
+UI and Compatibility Testing 
+API Testing, UAT
 Defect Tracking, Test Coverage                                            
+Desktop, Web and Mobile Testing System 
+
+Automation Testing using IBM’s RFT, RPT                            	       	         
+Basic knowledge of Selenium WebDriver                                      
+
 Java, SQL, Selenium WebDriver
+
+Visual Studio, Eclipse, IntelliJIdea, 
 Microsoft Office     	                                                             
 Bugzilla, Dev Track, JIRA
 Git, Azure DevOps Server                                               
-Desktop, Web and Mobile Testing System 
+
  
 SOFT SKILLS
 Excellent Communication skills, 
@@ -82,7 +88,7 @@ Fidelity National Information Services( FIS), Mohali
 
 ●  	Worked on maintenance and client-requested enhancements for the highly complex banking products.
 ●  	Testing and verification of the client issues before release.
-●  	Delivered more than 20 FDM/FRM builds for Clients with tasks ranging from getting code from TFS  using Wise Installer, signing the builds, writing the release note, sending the mails for the latest changes
+●  	Delivered more than 20 FDM/FRM builds for Clients with tasks ranging from getting code from TFS  using Wise Installer, signing the builds, writing the release     note, sending the mails for the latest changes
 ●  	Written and executed more than 400 test cases for FDM and for a Microsoft® SQL Server® 2014 Express upgrade over Windows10.
 ●  	Created a traceability Matrix for PDF rendering upgrades through OpenText APIs.
 ●  	Created Test Data Repository and Executed SQL queries to the Database to test the Back-End.
@@ -105,8 +111,8 @@ Senior Software Tester                                                          
 MS Technology Pvt Ltd, New Delhi
 
 ●  	Worked with ‘Deloitte Consulting' to create a solution for ‘US Senate' - Deloitte MSTClient-Server Web Application in Java for US Senate using HTML5
-●  	Worked on testing ‘.Net and Java Raster SDKs' which included libraries required to build imaging functions including document viewing, conversion, annotations, detection of text like SSN, account number, passport number, ID, age etc to redact from PDF documents. 
-●  	Worked on testing iOs / Android Apps ( iSharePoint, iFileNet, iCM8) which allowed for easy access, view, synchronization and storing of  SharePoint content with a simple and ideal solution.
+●  	Worked on testing ‘.Net and Java Raster SDKs' which included libraries required to build imaging functions including document viewing, conversion, annotations,     detection of text like SSN, account number, passport number, ID, age etc to redact from PDF documents. 
+●  	Worked on testing iOs / Android Apps ( iSharePoint, iFileNet, iCM8) which allowed for easy access, view, synchronization and storing of  SharePoint content         with a simple and ideal solution.
 ●  	Handled 350+ defects per internal release for verification.
 ●  	Created Data Sets for Automation repository
  
@@ -117,7 +123,7 @@ MS Technology Pvt Ltd, New Delhi
 ●  	Developed team communications skills and information gathering from offshore and onsite meetings.
 ●  	Wrote more than 1000 Test Cases for various company products in Waterfall, VModel and Agile.
 ●  	Increased customer satisfaction by resolving performance and compatibility issues.
-●  	Went through recreating 300 + defects manually to understand the product and have insight into the kind of defects that the products had received since the product’s inception.
+●  	Went through recreating 300 + defects manually to understand the product and have insight into the kind of defects that the products had received since the         product’s inception.
 ●  	Reporting the defects found with teams and having them fixed.
  
 EDUCATION
@@ -143,7 +149,7 @@ Worked on FIS’ Testing tool which uses SOAP and REST services for testing the 
 
 Hands-on experience with API testing with FIS tools on the cloud.
 
-collaborated to Troubleshot package building issues in Wise Installer. 
+Collaborated to Troubleshot package building issues in Wise Installer. 
 
 Well-versed with industry standards.
 
@@ -176,4 +182,9 @@ Classroom
 SAFe:
 . Certified SAFe 4 Scrum Master 
 . Certified SAFe 4 Practitioner
+
+DEVELOPMENT PROJECTS
+
+2017 Web Application named “e-Learning”| SPIC EDC Chandigarh
+Developed a web application with the front-end in HTML5, JavaScript, AJAX and JSP on  Netbeans, hosted on GlassFish, used MySQL for Database and Bootstrap for Designing.
 
