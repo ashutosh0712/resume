@@ -25,7 +25,7 @@ Dedicated technology professional accustomed to working in complex project envir
 
 Backed by strong credentials including a Computer Applications Master’s degree and Bachelor’s in Mathematics, Java certification, command on creating testing suites, agile methodologies, monitoring tools and cross-platform skills
  
-TECHNICAL SKILLS
+TECHNICAL SKILLS                                      
 Software Development Lifecycle                                                     	            
 Software Testing Lifecycle
 Software Quality Assurance                                                     
@@ -36,22 +36,20 @@ Business Requirements and use cases
 Manual Testing, Regression Testing
 Functional Testing, Integration Testing                
 Performance, Load and Stress Testing
-Integration Testing, Black Box Testing
-UI and Compatibility Testing 
-API Testing, UAT
-Defect Tracking, Test Coverage                                            
-Desktop, Web and Mobile Testing System 
+Black Box Testing, UI and Compatibility Testing 
+API Testing, UAT, Desktop, Web and Mobile Testing                              
 
-Automation Testing using IBM’s RFT, RPT                            	       	         
+Defect Tracking, Test Coverage                                            
+
+Automation Testing using IBM’s Rational Functional Tester, Rational Performance Tester                            	       	         
 Basic knowledge of Selenium WebDriver                                      
 
-Java, SQL, Selenium WebDriver
+Basic knowledge of Java, javascript, C, C++, SQL, HTML, CSS, Bootstrap 
 
-Visual Studio, Eclipse, IntelliJIdea, 
-Microsoft Office     	                                                             
-Bugzilla, Dev Track, JIRA
+Visual Studio, Eclipse, IntelliJIdea.                
+Bugzilla, Dev Track, JIRA                       
 Git, Azure DevOps Server                                               
-
+Microsoft Office     	                                                             
  
 SOFT SKILLS
 Excellent Communication skills, 
@@ -67,7 +65,7 @@ Fidelity National Information Services(FIS), Mohali, IN
 
 As QA
 
-●  	Increased understanding of FIS’s  Financial Services products and Project Management tools like TFS, Dev Track by engaging in all available training and discussion with teammates.
+●  	Increased understanding of FIS’s  Financial Services products and Project Management tools like TFS, Dev Track by engaging in all available training and           discussion with teammates.
 ●  	Assessed software bugs and compiled findings along with resolution techniques in documentation to disseminate to Project Owner
 ●  	Operated under Agile and Scrum frameworks to complete releases every 3 weeks and well-organized sprints
 ●  	Scripting for ImageOne using SAFAL( FIS tool) based on Selenium framework for Automation of test cases.
@@ -140,14 +138,12 @@ Languages: English, Hindi, Punjabi: YES
 French: No
 
 ACCOMPLISHMENTS
-Programming experience of creating a Web Application with the front-end in HTML5,
-JavaScript, AJAX and JSP on Netbeans, hosted on GlassFish, used MySQL for Database and Bootstrap for Designing.
 
-Automation Experience of Web Applications using the FIS Framework based on Selenium.
+Programming experience of creating a Web Application with the front-end in HTML5, JavaScript, AJAX and JSP on Netbeans, hosted on GlassFish, used MySQL for Database and Bootstrap for Designing.
+
+Automation Experience of a Web Application using FIS Framework based on Selenium.
 
 Worked on FIS’ Testing tool which uses SOAP and REST services for testing the APIs.
-
-Hands-on experience with API testing with FIS tools on the cloud.
 
 Collaborated to Troubleshot package building issues in Wise Installer. 
 
@@ -155,7 +151,7 @@ Well-versed with industry standards.
 
 Worked on Documentation of a Financial Services Product(Core Banking)
 
-Worked with Human Resource team for new recruitment
+Worked with Human Resource team for new recruitment.
 
 DOMAINS WORKED IN  
 
@@ -163,12 +159,11 @@ Core Banking
 Digital Imaging
 ECM Integration
 DICOM
-Mobile Applications
+Desktop and Mobile Applications
 File Format Support
 Document Conversion
 SDKs and toolkits
-FileNet
-Content Management
+Content Management(FileNet, Documentum, IBM -CM8)
 
 CERTIFICATIONS
 
