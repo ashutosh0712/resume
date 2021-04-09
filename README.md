@@ -20,7 +20,8 @@ With changing times, getting acquainted with new technologies, be it automation 
 
 Life has thrown challenges time and again, but I think it is my ability to bounce back is that has kept me floating.
 
-Senior Software Test Lead with full system development life cycle experience including designing, developing, and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits.
+Senior Software Test Lead with full system development life cycle experience including designing, developing, and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits.                              
+
 Dedicated technology professional accustomed to working in complex project environments. Multifaceted experience in QA software testing and software development.
 
 Backed by strong credentials including a Computer Applications Master’s degree and Bachelor’s in Mathematics, Java certification, command on creating testing suites, agile methodologies, monitoring tools and cross-platform skills
